@@ -1,3 +1,4 @@
+This info is just for the exam of MUST
 10分题预测：使用迭代iteration的方式实现连续读写的server和client、
 20分题预测：使用并发concurrency的方式（multi-process或者multi-thread，multiplexing可能性不大）实现server和client
 
