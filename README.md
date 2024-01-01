@@ -1,7 +1,4 @@
-This info is just for the exam of MUST
-10分题预测：使用迭代iteration的方式实现连续读写的server和client、
-20分题预测：使用并发concurrency的方式（multi-process或者multi-thread，multiplexing可能性不大）实现server和client
+**This repository is just for the network coding exam of MUST 2024 Jan.**
 
-Hint：代码中错误处理、头文件等片段都是为保证程序完整运行的加分项，不影响程序正确性，可以先不背
-
-推荐先复习: tcp_client > udp_client > iterative_server > multi-process_server > multi-thread_server > ...
+- This repository is also useful for those who are new to network coding
+- The documents contained in repository only cover the network programming knowledge of Macao University of Science and Technology, Computer Science and Technology, First semester of senior year, Network Coding course, 2024 final exam content. These are my personal notes for study purposes only.
